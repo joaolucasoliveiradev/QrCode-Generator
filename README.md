@@ -1,6 +1,6 @@
-# QR Code Generator - Java
-Um gerador de QR Code feito em java feito
-do zero e sem nenhuma bilioteca. 
+# QR Code Generator - Python
+Um gerador de QR Code feito em Python feito
+do zero. 
 ## Objetivo
 Desenvolver a lógica de programação entre
 os autores e formentar o estudo e análise
